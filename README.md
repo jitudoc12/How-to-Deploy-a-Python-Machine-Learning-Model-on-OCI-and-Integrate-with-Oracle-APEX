@@ -251,8 +251,7 @@ How to Deploy a Python Machine Learning Model on OCI and Integrate with Oracle A
 Description (copy-paste):
 This blog explains a real-world implementation of deploying a Python machine learning model on Oracle Cloud Infrastructure and integrating it with Oracle APEX using REST APIs to enable real-time predictions
 
-Reference:-
-https://www.blogger.com/blog/post/edit/7852511296724383645/1082122175102608994
+
 
 
 
